@@ -1,0 +1,88 @@
+want to make a website for a venue/event hall for weddings, engagements and other events etc.
+
+their instagram: https://www.instagram.com/occasionsmarquee/?hl=en
+their facebook: https://www.facebook.com/enhancerspkk/
+
+incase you need to grab all the info and pictures.
+
+use this similar venue/event website for inspiration: https://auragrande.com/
+grab all the contact info, images, Logo, etc from their instagram or facebook. THANKS
+
+
+
+THIS IS THE PRD:
+
+
+
+
+Occasions Marquee – Brochure Website (Frontend Only)
+
+Purpose
+Create a fast, elegant, and mobile-responsive website for Occasions Marquee that serves as an online brochure. The goal is to showcase the venue, highlight services, display photos of past events, and provide a simple way for visitors to get in touch.
+
+No backend or CMS will be used — all content will be hardcoded/static. Inquiries will be handled by a third-party form service (e.g. Formspree or Netlify Forms).
+
+
+Objectives
+Build trust and establish a premium brand image.
+Encourage potential clients to reach out via the inquiry form.
+Present venue information clearly with strong visuals.
+Keep development, hosting, and maintenance simple & low-cost.
+
+Scope & Features
+Homepage
+Hero slideshow with high-quality marquee images.
+
+Tagline (e.g., “Where Your Occasions Become Memories”).
+
+Call-to-action buttons: “Book a Tour”, “View Gallery”.
+
+About Section
+
+Short description of Occasions Marquee.
+
+Key differentiators (capacity, ambiance, central location).
+
+Venue Spaces / Services
+
+Info on hall capacity, décor, lighting, seating arrangements.
+
+Optional: package highlights (without exact pricing).
+
+Gallery
+
+Image grid (categorized: weddings, receptions, engagements).
+
+Lightbox view for larger previews.
+
+Lazy loading for speed.
+
+Testimonials
+
+3–5 quotes from clients (static text).
+
+FAQs
+Simple accordion with common questions (capacity, food policy, etc.).
+Contact / Inquiry Form
+Name, email, phone, event date, guest count, message.
+Uses Formspree/Netlify → sends directly to admin email.
+Google Maps embed with venue location.
+Footer
+Contact info (phone, email, address).
+Social media links (Instagram, Facebook).
+Quick links to main pages.
+
+Homepage: dynamically loaded hero slider, key CTAs.
+
+Responsive Navigation: menu that collapses on mobile, sticky header, smooth scroll to sections.
+
+Gallery / Portfolio: filterable / categorized gallery (e.g. by event type).
+
+Inquiry Form: fields such as event date, event type, expected guests, contact info, message. USE 3rd party liek formspree or netlify forms
+
+
+Social Integration: embed Instagram feed (e.g. via Instagram API or plugin), Facebook page link.
+
+Map & Contact: embed Google Maps (or equivalent), address block, phone clickable, email link.
+
+Performance Optimization: lazy loading images, caching, compress images, CDN (if needed).
